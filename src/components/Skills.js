@@ -5,6 +5,7 @@ import Tailwind from '../assets/tailwind.png';
 import CSS from '../assets/css.png';
 import HTML from '../assets/html.png';
 import Github from '../assets/github.png';
+import GitHubCalendar from 'react-github-calendar';
 
 const Skills = () => {
   return (
@@ -39,6 +40,9 @@ const Skills = () => {
                 <img src={Github} alt="Github Image" className='w-20 mx-auto'/>
                 <p className='my-4'>Github</p>
             </div>
+        </div>
+        <div className='w-full py-8 flex justify-center'>
+            <GitHubCalendar username="coderner" blockSize={14}/>
         </div>
      </div>
     </div>
