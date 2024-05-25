@@ -23,11 +23,10 @@ const About = () => {
                     I am a final year undergraduate pursuing my bachelors in Computer Science and Engineering.
                     I am react.js developer and love to create interactive UIs. I have interned as a
                     ui developer and have a hands on experience with frontend development. Apart from my time on screens,
-                    I also love to compose and perform poetry.
+                    I love to compose and perform poetry.
                   </p> 
                 </div>
-            </div>
-            
+            </div>     
         </div>
     </div>
   )

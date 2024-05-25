@@ -9,7 +9,7 @@ import GitHubCalendar from 'react-github-calendar';
 
 const Skills = () => {
   return (
-    <div name="skills" className='bg-[#0a192f] text-gray-300 w-full h-screen'>
+    <div name="skills" className='bg-[#0a192f] text-gray-300 w-full h-1/2'>
      <div className='max-w-[1000px] w-full h-full p-4 mx-auto flex flex-col justify-center items-center'>
         <div className='sm:text-center'>
             <p className='text-4xl font-bold inline border-b-4 border-[#00a693]'>Skills</p>
